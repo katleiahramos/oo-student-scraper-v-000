@@ -61,11 +61,11 @@ class Scraper
         scraped_student[:blog] = url
       end
 
-      
+
     end
 
-    
-    scraped_student 
+
+    scraped_student
   end
 
 end
